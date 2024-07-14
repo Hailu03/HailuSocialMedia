@@ -1,0 +1,22 @@
+.navbar-container {
+    display: flex;
+    background-color: #FFC8F3;
+}
+
+.navbar-logo-container {
+    position: relative;
+    margin-bottom: 90px;
+}
+
+.navbar-logo {
+    height: 74px;
+    /* margin-bottom: 90px; */
+}
+
+.navbar-menu-bar {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFC8F3;
+    width: 100px;
+    align-items: center;
+}
